@@ -1,7 +1,7 @@
 # Current Projects
 ## ChaosC2
 ### What is ChaosC2
-* ChaosC2 is a private access C2 framework.
+* ChaosC2 is a custom private C2 framework.
 * ChaosC2 is built to replicate functions as seen within Cobalt Strike with more OPSEC in mind alongside custom implementations.
 * ChaosC2 is for in-house utilization only. Commercial/Open-Source usage is not yet planned.
 ### Technical Specifications
