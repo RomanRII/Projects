@@ -7,5 +7,6 @@
 * ChaosC2's TeamServer is built using Python 3.10.10
 * ChaosC2's Windows Client is built using C# .NET Framework 4.8
 * ChaosC2's Beacon is built using C++
-
+## Shoutout
+* Made customizing the C# theme 1000x easier: https://github.com/Taiizor/ReaLTaiizor
 ![image](https://user-images.githubusercontent.com/74742067/224641246-ce5dbde3-991e-438d-82de-689c3fd62c13.png)
