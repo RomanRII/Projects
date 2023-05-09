@@ -1,13 +1,23 @@
 # ChaosC2
 __Access is granted during the interview process to showcase the project in it's entirety.__
-## What is ChaosC2
-* ChaosC2 is a private access C2 framework.
-* ChaosC2 is built to replicate functions as seen within Cobalt Strike with more OPSEC in mind alongside custom implementations.
-* ChaosC2 is for in-house utilization only. Commercial/Open-Source usage is not yet planned.
+## Dependencies
+<img src='https://img.shields.io/badge/Python-3.11.3-green'/> <img src='https://img.shields.io/badge/C%23-4.8-green'/>
+## Accessibility
+<img src='https://img.shields.io/badge/Server-Linux-red'/> <img src='https://img.shields.io/badge/Client-Windows-red'/> <img src='https://img.shields.io/badge/Client-HTTP-red'/>
+## Compatible Payloads
+<img src='https://img.shields.io/badge/Payload-Windows-red'/> <img src='https://img.shields.io/badge/Payload-Linux-red'/>
+
+## Project Description
+* ChaosC2 is a private access command and control framework. This tool aims to aid operators in controlling compromised assets during red team engagements.
+* ChaosC2 utilizes Python3 for server-side functionality while also serving an HTTP based controller for operators.
+* ChaosC2 also offers a client application developed in C#.
+* ChaosC2 currently offers payloads targeting Windows systems using binaries developed using C++. 
+
 ## Technical Specifications
 * ChaosC2's TeamServer is built using Python 3.11.3
 * ChaosC2's Windows Client is built using C# .NET Framework 4.8
 * ChaosC2's Beacon is built using C++
+
 ## Images
 ### C# Client
 ![image](https://user-images.githubusercontent.com/74742067/224641246-ce5dbde3-991e-438d-82de-689c3fd62c13.png)
