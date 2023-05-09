@@ -9,9 +9,12 @@ __Access is granted during the interview process to showcase the project in it's
 * ChaosC2's Windows Client is built using C# .NET Framework 4.8
 * ChaosC2's Beacon is built using C++
 ## Images
-![image](https://user-images.githubusercontent.com/74742067/224641246-ce5dbde3-991e-438d-82de-689c3fd62c13.png)*C# Client*
-![image](https://github.com/RomanRII/Projects/assets/74742067/3b012c42-64a3-420f-8d52-54ca8421b9f5)*Web Controller Login*
-![image](https://github.com/RomanRII/Projects/assets/74742067/617b9430-f43f-4cf8-bb46-084bb4f5239e)*In-Development Wiki/Project Documentation*
+### C# Client
+![image](https://user-images.githubusercontent.com/74742067/224641246-ce5dbde3-991e-438d-82de-689c3fd62c13.png)
+### Web Controller Login
+![image](https://github.com/RomanRII/Projects/assets/74742067/3b012c42-64a3-420f-8d52-54ca8421b9f5)
+### In-Development Wiki/Project Documentation
+![image](https://github.com/RomanRII/Projects/assets/74742067/617b9430-f43f-4cf8-bb46-084bb4f5239e)
 
  
 ## Shoutout
